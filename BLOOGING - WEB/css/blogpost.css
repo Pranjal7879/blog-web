@@ -1,0 +1,28 @@
+.post-img{
+    height: 404px;
+    overflow: hidden;
+    margin-top: 10px;
+
+}
+
+.post-img img{
+    width: 100%;
+    opacity: 0.68;
+}
+
+.post-heading h1{
+    text-align: center;
+    justify-content: center;
+}
+
+.post-heading h4{
+    text-align: center;
+    justify-content: center;
+    color: firebrick;
+}
+
+.blog-post{
+    font-family: var(--font1);
+    color: rgb(63, 24, 18);
+    font-size: large;
+}
